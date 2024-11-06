@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1706620117 source:e:\user dawud\documents\codeblocks\lab1\main.cpp
+	<iostream>
+
+1720666740 source:h:\user dawud\documents\codeblocks\uas gw\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
